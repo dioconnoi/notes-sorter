@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.sqlite3
+.keep_state/
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.log
+google_token.json
+keep_master_token.json
